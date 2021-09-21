@@ -1,3 +1,4 @@
+#! /usr/bin/env python3.10
 import sys
 
 # "fake header not in the original" noises intensify
